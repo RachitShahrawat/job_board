@@ -1,3 +1,5 @@
-export default function Home(){
-  return <h1>hi</h1>
-}
+
+
+// export default function Home(){
+//   return <SidebarProvider></SidebarProvider>
+// }
